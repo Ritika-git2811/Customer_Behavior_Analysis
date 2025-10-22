@@ -1,4 +1,6 @@
 **👨🏻‍💻Customer Behavior Data Analyst Portfolio Project**
+
+
 This project represents a complete, end-to-end data analytics workflow. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 📌 Project Overview:
@@ -58,10 +60,17 @@ Supported marketing and subscription campaigns by highlighting customer profiles
 Provided a data-driven foundation for improving customer retention and personalized promotions.
 
 💡 Recommended Outcomes & Business Solutions:
+
 1️⃣ Increase Subscription Adoption
+
 2️⃣ Focus on High-Revenue Categories (Clothing & Accessories)
+
 3️⃣ Improve Underperforming Categories (Footwear & Outerwear)
+
 4️⃣ Leverage Age Group Insights
+
 5️⃣ Optimize Shipping Strategy
+
 6️⃣ Enhance Customer Experience & Reviews
+
 7️⃣ Data-Driven Future Actions
